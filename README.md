@@ -3,7 +3,7 @@ Welcome to CS109: Data Science
 
 ## Assignments
 
-* [Homework 0](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/HW0.ipynb): Hello, world
+* [Homework 0](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/HW0.ipynb): Hello, world ([solutions](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/HW0_solutions.ipynb))
 * [Homework 1](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/HW1.ipynb): Which of two things is larger?
 
 ## Lecture Supplements
