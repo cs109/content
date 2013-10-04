@@ -13,6 +13,7 @@ Welcome to CS109: Data Science
 * [A gallery of statistical graphs with matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_03_statistical_graphs.ipynb) (see also the version with [default matplotlib styles](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_03_statistical_graphs_mpl_default.ipynb))
 * [A rubric for data wrangling and exploratory data analysis](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_04_wrangling.ipynb)
 * [Web Scraping and Parsing Demo](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_04_scraping.ipynb)
+* [Cross Validation: The Right and Wrong Way](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_10_cross_val.ipynb)
 
 ## Other Resources
 
