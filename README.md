@@ -17,9 +17,9 @@ Welcome to CS109: Data Science
 
 ## Labs
 
-* [Lab 3](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
-* [Lab 4](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
-* [Lab 5](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
+* [Lab 3](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb): EDA, Pandas, Matplotlib
+* [Lab 4](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb): Scikit-Learn, Regression, PCA
+* [Lab 5](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb): Bias, Variance, Cross-Validation
 
 ## Other Resources
 
