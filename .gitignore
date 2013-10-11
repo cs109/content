@@ -35,4 +35,8 @@ nosetests.xml
 .pydevproject
 
 #OSX
-__MACOSX/*
+__MACOSX/
+.DS_Store
+
+#Ipython
+.ipynb_checkpoints/

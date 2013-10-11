@@ -15,6 +15,12 @@ Welcome to CS109: Data Science
 * [Web Scraping and Parsing Demo](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_04_scraping.ipynb)
 * [Cross Validation: The Right and Wrong Way](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_10_cross_val.ipynb)
 
+## Labs
+
+* [Lab 3](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
+* [Lab 4](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
+* [Lab 5](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
+
 ## Other Resources
 
 * [Setting up Python](https://github.com/cs109/content/wiki/Installing-Python)
