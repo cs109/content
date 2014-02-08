@@ -20,6 +20,7 @@ Welcome to CS109: Data Science
 
 ## Labs
 
+* [Lab 2: Web Scraping](http://nbviewer.ipython.org/urls/gist.github.com/thouis/6541913/raw/3986b40ca96007ab3b6ff2587adefb0edc5983c1/Lab_2_A_Live_Ray_Final.ipynb)
 * [Lab 3: EDA, Pandas, Matplotlib](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab3/lab3full.ipynb)
 * [Lab 4: Scikit-Learn, Regression, PCA](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab4/Lab4full.ipynb)
 * [Lab 5: Bias, Variance, Cross-Validation](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/labs/lab5/Lab5.ipynb)
